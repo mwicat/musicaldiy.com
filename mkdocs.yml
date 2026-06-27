@@ -1,0 +1,26 @@
+site_name: Musical DIY
+site_url: https://musicaldiy.com
+extra:
+  generator: false
+  social:
+    - icon: simple/youtube
+      link: https://www.youtube.com/@MusicalDIY-vi3uo
+
+copyright: Copyright &copy; 2026 Marek Wiewiórski
+
+theme:
+  logo: assets/logo_circle.png
+  favicon: assets/favicon.ico
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
